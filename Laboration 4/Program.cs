@@ -42,7 +42,7 @@ namespace Laboration_4
             {
                 Console.WriteLine("\n--- Add a New Person ---");
 
-                // Anbänder try-catch för att fånga felaktig inmatning
+                // Använder try-catch för att fånga felaktig inmatning
                 try
                 {
                     
